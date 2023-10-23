@@ -17,4 +17,3 @@ namespace Entities.Entidades
         public string Nome { get; set; }
     }
 }
-}
